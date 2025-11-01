@@ -1,3 +1,13 @@
+SHORT TUTORIAL:
+ - Download the source code of this repo.
+ - Extract the folder from it.
+ - Type /ct files in the Minecraft chat. (Opens ChatTriggers config folder)
+ - Put the folder in the modules folder.
+ - Type /ct reload in the Minecraft chat.
+ - Done! The command to open the GUI is /jerry
+
+
+
 🚀 Yo,JerryAddons V2.0 ChatTriggers Module Just Dropped! 🎉
 
 We’re super pumped to unleash the first edition of JerryAddons! The classic mod is still going strong, but now we’ve got a fresh Chat Triggers version for all you tweak-happy players out there! The crew's been grinding hard to bring you this epic update, especially ever since people have been giving us positive feedback on our mod!
